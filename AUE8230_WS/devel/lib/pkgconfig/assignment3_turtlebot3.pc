@@ -1,0 +1,8 @@
+prefix=/home/vasudev/Desktop/AUE8230Spring22_Team2/AUE8230Spring22_Team2/AUE8230_WS/devel
+
+Name: assignment3_turtlebot3
+Description: Description of assignment3_turtlebot3
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
