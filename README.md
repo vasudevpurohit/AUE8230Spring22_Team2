@@ -6,4 +6,4 @@ Team 2 consists of the following members:\
 Chirag Mutha\
 Rithvik Reddy Pindi\
 Udit Rathee\
-Vasudev Purohit\
+Vasudev Purohit
