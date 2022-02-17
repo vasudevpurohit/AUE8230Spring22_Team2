@@ -10,7 +10,7 @@ Vasudev Purohit
 
 ## A workspace has been created that holds all the packages developed during this course. Following is a list of all the packages:
 
-### 1. assignment3_turltebot3
+### 1. assignment3_turltebot3 (AUE8230WS/src/assignment3_turtlebot3)
 
 (a) 'square.py' - makes the turtlebot3 move in gazebo in a square with a constant linear velocity in x and constant angular velocity about z
 
