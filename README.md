@@ -20,7 +20,7 @@ Vasudev Purohit\
 
 To run the codes, follow the steps mentioned below
 
-(i) To simulate scenarios (a) and (b) run the command-\ 
+(i) To simulate scenarios (a) and (b) run the command-<br /> 
 'roslaunch assignment3_turtlebot3 move.launch code:=circle' --> to run the circle script\
 'roslaunch assignment3_turtlebot3 move.launch code:=square' --> to run the square script\
 
