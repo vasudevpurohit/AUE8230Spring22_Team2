@@ -10,7 +10,7 @@ from geometry_msgs.msg import Twist
 
 def move():
     #initializing a node
-    rospy.init_node('turtlesim1')
+    rospy.init_node('turtlebot1')
     rate = rospy.Rate(10)
     
     #publisher message

@@ -5,7 +5,7 @@ from geometry_msgs.msg import Twist
 import math
 
 def move():
-	rospy.init_node('turtlesim1')
+	rospy.init_node('turtlebot1')
 	rate = rospy.Rate(10)
 	vel_publisher = rospy.Publisher('/cmd_vel',Twist,queue_size = 10)
 	bot_vel = Twist()
