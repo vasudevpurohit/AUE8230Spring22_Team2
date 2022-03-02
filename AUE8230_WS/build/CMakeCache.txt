@@ -385,6 +385,12 @@ assignment3_turtlebot3_BINARY_DIR:STATIC=/home/vasudev/Desktop/AUE8230Spring22_T
 //Value Computed by CMake
 assignment3_turtlebot3_SOURCE_DIR:STATIC=/home/vasudev/Desktop/AUE8230Spring22_Team2/AUE8230Spring22_Team2/AUE8230_WS/src/assignment3_turtlebot3
 
+//Value Computed by CMake
+assignment5_wallfollowingandobstacleavoidance_BINARY_DIR:STATIC=/home/vasudev/Desktop/AUE8230Spring22_Team2/AUE8230Spring22_Team2/AUE8230_WS/build/assignment5_wallfollowingandobstacleavoidance
+
+//Value Computed by CMake
+assignment5_wallfollowingandobstacleavoidance_SOURCE_DIR:STATIC=/home/vasudev/Desktop/AUE8230Spring22_Team2/AUE8230Spring22_Team2/AUE8230_WS/src/assignment5_wallfollowingandobstacleavoidance
+
 //The directory containing a CMake configuration file for catkin.
 catkin_DIR:PATH=/opt/ros/noetic/share/catkin/cmake
 
@@ -618,7 +624,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=5
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=6
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

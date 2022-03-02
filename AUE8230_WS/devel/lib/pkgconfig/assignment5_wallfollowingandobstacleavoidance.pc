@@ -1,0 +1,8 @@
+prefix=/home/vasudev/Desktop/AUE8230Spring22_Team2/AUE8230Spring22_Team2/AUE8230_WS/devel
+
+Name: assignment5_wallfollowingandobstacleavoidance
+Description: Description of assignment5_wallfollowingandobstacleavoidance
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

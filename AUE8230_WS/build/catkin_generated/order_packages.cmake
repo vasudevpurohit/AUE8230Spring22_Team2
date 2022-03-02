@@ -8,6 +8,10 @@ list(APPEND CATKIN_ORDERED_PACKAGES "assignment3_turtlebot3")
 list(APPEND CATKIN_ORDERED_PACKAGE_PATHS "assignment3_turtlebot3")
 list(APPEND CATKIN_ORDERED_PACKAGES_IS_META "False")
 list(APPEND CATKIN_ORDERED_PACKAGES_BUILD_TYPE "catkin")
+list(APPEND CATKIN_ORDERED_PACKAGES "assignment5_wallfollowingandobstacleavoidance")
+list(APPEND CATKIN_ORDERED_PACKAGE_PATHS "assignment5_wallfollowingandobstacleavoidance")
+list(APPEND CATKIN_ORDERED_PACKAGES_IS_META "False")
+list(APPEND CATKIN_ORDERED_PACKAGES_BUILD_TYPE "catkin")
 
 set(CATKIN_MESSAGE_GENERATORS )
 
