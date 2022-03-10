@@ -52,7 +52,9 @@ To run the codes, run the commands below mentioned below\
 (ii) Wander node-\
 -'roslaunch assignment5_wallfollowingandobstacleavoidance turtlebot3_obstacles.launch'
 
-Results of deploying the node on actual H/W can be found [here](https://drive.google.com/drive/folders/1-5eiNoA9bVsNyNHob1AXqxvZAVP8I73d) 
+Results of deploying the node on actual H/W can be found [here](https://drive.google.com/drive/folders/1-5eiNoA9bVsNyNHob1AXqxvZAVP8I73d)
+
+![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment5_wallfollowingandobstacleavoidance/videos/wander_2.gif)
 
 Alternatively stand-alone nodes can be created from a Simulink model that does the same job. For example, an obstacle avoidance node was created on Simulink using\
 ROS libraries available on Simulink. A detailed presentation describing the steps involved is included. Follow the steps mentioned below to run the node:
