@@ -53,6 +53,11 @@ To run the codes, run the commands below mentioned below\
 -'roslaunch assignment5_wallfollowingandobstacleavoidance turtlebot3_obstacles.launch'
 
 Alternatively stand-alone nodes can be created from a Simulink model that does the same job. For example, an obstacle avoidance node was created on Simulink using\
-ROS libraries available on Simulink. Follow the steps mentioned below:
+ROS libraries available on Simulink. A detailed presentation describing the steps involved is included. Follow the steps mentioned below to run the node:
 
+(i) 'rosrun wander2 wander2' -- wander2 (package) & wander2 (node)
+
+Results:
+
+![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/Standalone_Node/obstacleAvoidance.gif)
 
