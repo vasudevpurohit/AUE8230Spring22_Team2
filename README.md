@@ -49,13 +49,19 @@ To run the codes, run the commands below mentioned below\
 (i) Wall-following node-\
 -'roslaunch assignment5_wallfollowingandobstacleavoidance turtlebot3_wallfollowing.launch
 
-(i) Wander node-\
+(ii) Wander node-\
 -'roslaunch assignment5_wallfollowingandobstacleavoidance turtlebot3_obstacles.launch'
+
+Results of deploying the node on actual H/W can be found [here](https://drive.google.com/drive/folders/1-5eiNoA9bVsNyNHob1AXqxvZAVP8I73d) 
 
 Alternatively stand-alone nodes can be created from a Simulink model that does the same job. For example, an obstacle avoidance node was created on Simulink using\
 ROS libraries available on Simulink. A detailed presentation describing the steps involved is included. Follow the steps mentioned below to run the node:
 
-(i) 'rosrun wander2 wander2' -- wander2 (package) & wander2 (node)
+(i) The steps to build the package using the Simulink model are included in the presentation
+
+(ii) Launch the world using the command 'roslaunch assignment5_wallfollowingandobstacleavoidance turtlebot3_obstacles.launch'
+
+(iii) 'rosrun wander2 wander2' -- wander2 (package) & wander2 (node)
 
 Results:
 
