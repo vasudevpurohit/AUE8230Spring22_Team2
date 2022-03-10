@@ -57,8 +57,7 @@ Results of deploying the node on actual H/W can be found [here](https://drive.go
 ![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment5_wallfollowingandobstacleavoidance/videos/wander_2.gif)
 
 #### Alternatively 
-Stand-alone nodes can be created from a Simulink model that does the same job. For example, an obstacle avoidance node was created on Simulink using\
-ROS libraries available on Simulink. A detailed presentation describing the steps involved is included. Follow the steps mentioned below to run the node:
+Stand-alone nodes can be created from a Simulink model that does the same job. For example, an obstacle avoidance node was created on Simulink using ROS libraries available on Simulink. A detailed presentation describing the steps involved is included. Follow the steps mentioned below to run the node:
 
 (i) The steps to build the package using the Simulink model are included in the presentation
 
