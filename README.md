@@ -32,3 +32,27 @@ To run the codes, follow the steps mentioned below
 
 (ii) To simulate scenario (c) run the command-\
 'roslaunch assignment3_turtlebot3 turtlebot3_wall.launch'
+
+### 2. assignment5_wallfollowingandobstacleavoidance (AUE8230WS/src/assignment5_wallfollowingandobstacleavoidance)
+
+The implementation below uses packages that were built from the traditional method of catkin_create_pkg with the .py script included in the launch file\ 
+(a) 'wallFollowing.py' - makes the turtlebot3 burger follow the walls present in the Gazebo map
+
+![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment5_wallfollowingandobstacleavoidance/videos/wallFollowing.gif)
+
+(b) 'obstacleAvoidance.py' - makes the turtlebot3 burger wander in a Gazebo environment
+
+![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment5_wallfollowingandobstacleavoidance/videos/wander.gif)
+
+To run the codes, run the commands below mentioned below\
+
+(i) Wall-following node-\
+-'roslaunch assignment5_wallfollowingandobstacleavoidance turtlebot3_wallfollowing.launch
+
+(i) Wander node-\
+-'roslaunch assignment5_wallfollowingandobstacleavoidance turtlebot3_obstacles.launch'
+
+Alternatively stand-alone nodes can be created from a Simulink model that does the same job. For example, an obstacle avoidance node was created on Simulink using\
+ROS libraries available on Simulink. Follow the steps mentioned below:
+
+
