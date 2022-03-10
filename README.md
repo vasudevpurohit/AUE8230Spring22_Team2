@@ -35,7 +35,7 @@ To run the codes, follow the steps mentioned below
 
 ### 2. assignment5_wallfollowingandobstacleavoidance (AUE8230WS/src/assignment5_wallfollowingandobstacleavoidance)
 
-The implementation below uses packages that were built from the traditional method of catkin_create_pkg with the .py script included in the launch file\ 
+The implementation below uses packages that were built from the traditional method of catkin_create_pkg with the .py script included in the launch file<br /> 
 (a) 'wallFollowing.py' - makes the turtlebot3 burger follow the walls present in the Gazebo map
 
 ![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment5_wallfollowingandobstacleavoidance/videos/wallFollowing.gif)
