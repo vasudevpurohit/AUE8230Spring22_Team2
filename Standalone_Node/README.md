@@ -19,3 +19,4 @@ Results:
 ![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/Standalone_Node/obstacleAvoidance.gif)
 
 (ii) HW
+![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/Standalone_Node/standalone_node.gif)
