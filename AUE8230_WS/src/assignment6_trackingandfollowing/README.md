@@ -29,8 +29,8 @@ To run the codes, run the commands below mentioned below\
 -'roslaunch assignment6_trackingandfollowing aprilTag.launch'
 
 Following set steps need to be run before launching the nodes mentioned above:\
-(a) Launching the camera node on the turtlebot
-(b) Carrying out the extrinsic and intrinsic calibration to get the entire set of topics available from the camera
+(a) Launching the camera node on the turtlebot\
+(b) Carrying out the extrinsic and intrinsic calibration to get the entire set of topics available from the camera\
 (c) Running the tag detection node -- (since the apriltag package contains certain non-catkin files, catkin_make_isolated was used instead of catkin_make. Include 'source devel_isolated/setup.bash' to the .bashrc file for the apriltag packages to be included
 
 Challenges faced:
