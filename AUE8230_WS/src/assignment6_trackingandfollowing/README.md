@@ -36,6 +36,7 @@ Following set steps need to be run before launching the nodes mentioned above:\
 Challenges faced:
 
 (i)  The control frequency for the lane-following implementation was pretty low and was improved by increasing the rate at which the data was being published. This improved the performance significantly\
-(ii) For the april tag implementation on actual bot, a major hurdle faced by the team was that of data transfer rate from the turtlebot3 to the remote PC being very low. This did not allow the tag pose to be detected. This is because the camera data is being published by the camera on the turtlebot and the tag detection package runs on the remote PC. To improve performance here, an image with a lesser information was used i.e., /camera/mono was used in place of /camera/image_color 
+(ii) For the april tag implementation on actual bot, a major hurdle faced by the team was that of data transfer rate from the turtlebot3 to the remote PC being very low. This did not allow the tag pose to be detected. This is because the camera data is being published by the camera on the turtlebot and the tag detection package runs on the remote PC. To improve performance here, an image with a lesser information was used i.e., /camera/mono was used in place of /camera/image_color\
+(iii) The structure for the /tag_detections can be found out using the command - 'rostopic type /tag_detections | rosmsg show' 
 
 The LiDAR can be disconnected for this implementation to save battery!
