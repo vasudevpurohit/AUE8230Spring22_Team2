@@ -7,3 +7,4 @@
 subdirs("gtest")
 subdirs("assignment3_turtlebot3")
 subdirs("assignment5_wallfollowingandobstacleavoidance")
+subdirs("assignment6_trackingandfollowing")

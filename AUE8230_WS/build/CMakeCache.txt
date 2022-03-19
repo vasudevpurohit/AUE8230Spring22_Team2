@@ -391,11 +391,23 @@ assignment5_wallfollowingandobstacleavoidance_BINARY_DIR:STATIC=/home/vasudev/De
 //Value Computed by CMake
 assignment5_wallfollowingandobstacleavoidance_SOURCE_DIR:STATIC=/home/vasudev/Desktop/AUE8230Spring22_Team2/AUE8230Spring22_Team2/AUE8230_WS/src/assignment5_wallfollowingandobstacleavoidance
 
+//Value Computed by CMake
+assignment6_trackingandfollowing_BINARY_DIR:STATIC=/home/vasudev/Desktop/AUE8230Spring22_Team2/AUE8230Spring22_Team2/AUE8230_WS/build/assignment6_trackingandfollowing
+
+//Value Computed by CMake
+assignment6_trackingandfollowing_SOURCE_DIR:STATIC=/home/vasudev/Desktop/AUE8230Spring22_Team2/AUE8230Spring22_Team2/AUE8230_WS/src/assignment6_trackingandfollowing
+
 //The directory containing a CMake configuration file for catkin.
 catkin_DIR:PATH=/opt/ros/noetic/share/catkin/cmake
 
 //The directory containing a CMake configuration file for cpp_common.
 cpp_common_DIR:PATH=/opt/ros/noetic/share/cpp_common/cmake
+
+//The directory containing a CMake configuration file for cv_bridge.
+cv_bridge_DIR:PATH=/home/vasudev/catkin_ws/devel/share/cv_bridge/cmake
+
+//The directory containing a CMake configuration file for geometry_msgs.
+geometry_msgs_DIR:PATH=/opt/ros/noetic/share/geometry_msgs/cmake
 
 //Value Computed by CMake
 gmock_BINARY_DIR:STATIC=/home/vasudev/Desktop/AUE8230Spring22_Team2/AUE8230Spring22_Team2/AUE8230_WS/build/gtest/googlemock
@@ -444,7 +456,7 @@ gtest_hide_internal_symbols:BOOL=OFF
 gtest_main_LIB_DEPENDS:STATIC=general;gtest;
 
 //Path to a library.
-lib:FILEPATH=/opt/ros/noetic/lib/libxmlrpcpp.so
+lib:FILEPATH=/opt/ros/noetic/lib/libroscpp_serialization.so
 
 //The directory containing a CMake configuration file for message_runtime.
 message_runtime_DIR:PATH=/opt/ros/noetic/share/message_runtime/cmake
@@ -469,6 +481,9 @@ rospy_DIR:PATH=/opt/ros/noetic/share/rospy/cmake
 
 //The directory containing a CMake configuration file for rostime.
 rostime_DIR:PATH=/opt/ros/noetic/share/rostime/cmake
+
+//The directory containing a CMake configuration file for sensor_msgs.
+sensor_msgs_DIR:PATH=/opt/ros/noetic/share/sensor_msgs/cmake
 
 //The directory containing a CMake configuration file for std_msgs.
 std_msgs_DIR:PATH=/opt/ros/noetic/share/std_msgs/cmake
@@ -624,7 +639,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_NM
 CMAKE_NM-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=6
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=4
 //ADVANCED property for variable: CMAKE_OBJCOPY
 CMAKE_OBJCOPY-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_OBJDUMP

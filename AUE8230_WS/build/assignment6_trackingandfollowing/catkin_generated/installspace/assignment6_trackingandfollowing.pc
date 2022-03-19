@@ -1,0 +1,8 @@
+prefix=/home/vasudev/Desktop/AUE8230Spring22_Team2/AUE8230Spring22_Team2/AUE8230_WS/install
+
+Name: assignment6_trackingandfollowing
+Description: Description of assignment6_trackingandfollowing
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
