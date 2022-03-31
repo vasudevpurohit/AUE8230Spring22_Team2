@@ -82,6 +82,8 @@ The Assignment7_SLAM_Gazebo.launch file is used to acheive the following maps as
 
 For Hukoyo Lidar, we first added the provided stl file and update the urdf and xacro files to accomodate the new lidar.
 
+![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment7_SLAMandNavigation/images/Part2/hokuyo_turtlebot3.png)
+
 The same Assignment7_SLAM_Gazebo.launch file is used to spawn the turtlebot, launch the default SLAM node and tele-op it to perform SLAM.
 
 But, we were unable to visualize any MAP being built in Rviz. We encountered that following error: "Map not received" 
