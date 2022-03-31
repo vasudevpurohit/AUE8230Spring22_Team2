@@ -68,15 +68,15 @@ The Assignment7_SLAM_Gazebo.launch file is used to acheive the following maps as
 
 -1. Gazebo Default World 
 
-![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment7_SLAMandNavigation/images/Part2/map_world_lds.pgm)
+![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment7_SLAMandNavigation/images/Part2/map_world_lds.png)
 
 -2. Gazebo Stage4 
 
-![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment7_SLAMandNavigation/images/Part2/map_stage4_lds.pgm)
+![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment7_SLAMandNavigation/images/Part2/map_stage4_lds.png)
 
 -3. House 
 
-![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment7_SLAMandNavigation/images/Part2/map_house_lds.pgm)
+![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment7_SLAMandNavigation/images/Part2/map_house_lds.png)
 
 For Hukoyo Lidar, we first added the provided stl file and update the urdf and xacro files to accomodate the new lidar.
 
