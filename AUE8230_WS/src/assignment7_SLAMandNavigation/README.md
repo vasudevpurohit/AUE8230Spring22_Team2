@@ -2,7 +2,7 @@
 
 Complete implementation videos have been added [here](https://drive.google.com/drive/folders/14WX3gEQ5_MGe7tOSRgXkQndp_xGBLtUT)
 
-### assignment6_trackingandfollowing (AUE8230WS/src/assignment6_trackingandfollowing)
+### assignment7_SLAMandNavigation (AUE8230WS/src/assignment7_SLAMandNavigation)
 #### Part 1
 The implementation shown below is executed using the SLAM & Navigation launch files for two different mapping methods: 
 
