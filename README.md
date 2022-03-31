@@ -15,3 +15,5 @@ Vasudev Purohit
 ### 2. assignment5_wallfollowingandobstacleavoidance (AUE8230WS/src/assignment5_wallfollowingandobstacleavoidance)
 
 ### 3. assignment6_trackingandfollowing (AUE8230WS/src/assignment6_trackingandfollowing)
+
+### 4. assignment7_SLAMandNavigation (AUE8230WS/src/assignment7_SLAMandNavigation)
