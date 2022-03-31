@@ -1,7 +1,9 @@
 ## AuE8230 - Autonomy Sciences & Systems - Team 2
 
+Complete implementation videos have been added [here](https://drive.google.com/drive/folders/14WX3gEQ5_MGe7tOSRgXkQndp_xGBLtUT)
+
 ### assignment6_trackingandfollowing (AUE8230WS/src/assignment6_trackingandfollowing)
-####Part 1
+#### Part 1
 The implementation shown below is executed using the SLAM & Navigation launch files for two different mapping methods: 
 
 For the purpose of SLAM we created an area using cardboard boxes as objects and walls of the room as bounding walls for the turtlebot to run
@@ -42,7 +44,7 @@ The same process shown on the real turtlebot3
 
 ![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment7_SLAMandNavigation/videos/Part1/Karto/Karto_Navigation_real.gif) 
 
-#####CONCLUSION: 
+##### CONCLUSION: 
 
 -1. Karto SLAM method forms more dense occupancy grid compared to G-Mapping 
 
@@ -54,7 +56,7 @@ The same process shown on the real turtlebot3
 
 ![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment7_SLAMandNavigation/videos/Part1/Karto/Karto_navigation_real_bonus.gif) 
 
-####Part2
+#### Part2
 The objective of part2 was to compare the performance of different LIDAR's in different Gazebo world setup. The performance is being compared on the visual quality of the SLAM map each method generate.
 
 For the purpose of this assignment, the following LIDAR were used:
