@@ -50,9 +50,9 @@ The same process shown on the real turtlebot3
 
 -3. Navigation in Karto SLAM formed map is better as it even allows to traverse long path through a series of Obstacle as shown below: 
 
-![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment7_SLAMandNavigation/videos/Part1/Karto/Karto_Navigation_Bonus.gif) 
+![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment7_SLAMandNavigation/videos/Part1/Karto/Karto_navigation_Bonus.gif) 
 
-![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment7_SLAMandNavigation/videos/Part1/Karto/Karto_Navigation_real_bonus.gif) 
+![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment7_SLAMandNavigation/videos/Part1/Karto/Karto_navigation_real_bonus.gif) 
 
 ####Part2
 The objective of part2 was to compare the performance of different LIDAR's in different Gazebo world setup. The performance is being compared on the visual quality of the SLAM map each method generate.
