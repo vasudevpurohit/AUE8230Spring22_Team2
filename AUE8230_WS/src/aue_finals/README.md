@@ -16,7 +16,7 @@ Gazebo simulation video can be found [here](https://drive.google.com/drive/folde
 ![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment6_trackingandfollowing/videos/lineFollowing.gif)
 
 
-Results of deploying the node on actual H/W can be found [here](https://drive.google.com/drive/u/0/my-drive)
+Results of deploying the node on actual H/W can be found [here](https://drive.google.com/drive/u/0/folders/1K5CcTDVzJFI-7N-pfy4J16HWsA1Z5EgA)
 
 ![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment6_trackingandfollowing/videos/aprilTag_hw.gif)
 
