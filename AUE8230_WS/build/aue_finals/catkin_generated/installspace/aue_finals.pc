@@ -1,0 +1,8 @@
+prefix=/home/vasudev/Desktop/AUE8230Spring22_Team2/AUE8230Spring22_Team2/AUE8230_WS/install
+
+Name: aue_finals
+Description: Description of aue_finals
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

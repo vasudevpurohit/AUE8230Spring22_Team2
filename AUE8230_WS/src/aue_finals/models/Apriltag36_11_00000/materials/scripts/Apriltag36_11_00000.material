@@ -1,0 +1,14 @@
+material Apriltag36_11_00000
+{
+  technique
+  {
+    pass
+    {
+      texture_unit
+      {
+        texture Apriltag36_11_00000.png
+      }
+    }
+  }
+}
+

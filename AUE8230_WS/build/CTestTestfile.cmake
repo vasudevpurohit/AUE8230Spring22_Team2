@@ -7,4 +7,8 @@
 subdirs("gtest")
 subdirs("assignment3_turtlebot3")
 subdirs("assignment5_wallfollowingandobstacleavoidance")
+subdirs("assignment7_SLAMandNavigation")
+subdirs("aue_finals")
 subdirs("assignment6_trackingandfollowing")
+subdirs("darknet_ros/darknet_ros_msgs")
+subdirs("darknet_ros/darknet_ros")

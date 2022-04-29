@@ -10,7 +10,7 @@ class MoveTurtlebot3(object):
         self.cmd_vel_pub = rospy.Publisher('/cmd_vel', Twist, queue_size=10)
         self.cmd_vel_subs = rospy.Subscriber('/cmd_vel', Twist, self.cmdvel_callback)
         self.last_cmdvel_command = Twist()
-        self._cmdvel_pub_rate = rospy.Rate(10)
+        self._cmdvel_pub_rate = rospy.Rate(5)
 
 
     def cmdvel_callback(self,msg):
