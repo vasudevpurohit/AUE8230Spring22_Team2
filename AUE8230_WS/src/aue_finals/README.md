@@ -12,7 +12,7 @@ The methodology employed by our team as follows<br />
 (4) Lastly, the robot switched to AprilTag detection mode once an AprilTag was detected.
 
 
-Results of deploying the node on actual H/W can be found [here](https://drive.google.com/drive/u/0/folders/1K5CcTDVzJFI-7N-pfy4J16HWsA1Z5EgA)
+Results of deploying the node on actual H/W and the Gazebo simulation can be found [here](https://drive.google.com/drive/u/0/folders/1K5CcTDVzJFI-7N-pfy4J16HWsA1Z5EgA)
 
 Challenges faced:
 
