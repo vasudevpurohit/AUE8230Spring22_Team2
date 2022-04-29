@@ -11,14 +11,8 @@ The methodology employed by our team as follows<br />
 (3) The stop detection was carried out by detecting a 8-sided polygon, and the bot was stopped when the area of the polygon detected was greater than a threshold value\
 (4) Lastly, the robot switched to AprilTag detection mode once an AprilTag was detected.
 
-Gazebo simulation video can be found [here](https://drive.google.com/drive/folders/1fWwCdGmC59jA5oUrCSfM3Srx6M4Gqdbt)
-
-![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment6_trackingandfollowing/videos/lineFollowing.gif)
-
 
 Results of deploying the node on actual H/W can be found [here](https://drive.google.com/drive/u/0/folders/1K5CcTDVzJFI-7N-pfy4J16HWsA1Z5EgA)
-
-![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/assignment6_trackingandfollowing/videos/aprilTag_hw.gif)
 
 Challenges faced:
 
