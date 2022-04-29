@@ -17,6 +17,9 @@ Results of deploying the node on actual H/W and the Gazebo simulation can be fou
 Gazebo simulation:
 ![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/aue_finals/videos/gazebo.gif)
 
+Real-wrold simulation:
+![](https://github.com/vasudevpurohit/AUE8230Spring22_Team2/blob/master/AUE8230_WS/src/aue_finals/videos/sim2real.gif)
+
 Challenges faced:
 
 (i) The Gazebo simulation part of this project was a little less challenging since the blob tracking and stop sign detection weren't a function of the environment illumination. However, one of the obstacles placed in the environment was below the LiDAR 2D-scan and hence not detected. Thus, the LiDAR was physically moved down to solve this issue.\
