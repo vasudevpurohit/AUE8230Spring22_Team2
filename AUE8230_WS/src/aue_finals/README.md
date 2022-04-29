@@ -18,4 +18,4 @@ Challenges faced:
 
 (i) The Gazebo simulation part of this project was a little less challenging since the blob tracking and stop sign detection weren't a function of the environment illumination. However, one of the obstacles placed in the environment was below the LiDAR 2D-scan and hence not detected. Thus, the LiDAR was physically moved down to solve this issue.\
 (ii) For the actual implementation the single greatest challenge was the illumination. The hsv values were tuned several times, yet the line following wasn't robust enough.\
-(iii) The obstacle avoidance part of the script could have been a little more robust had the team gotten more time.\
+(iii) The obstacle avoidance part of the script could have been a little more robust had the team gotten more time.
